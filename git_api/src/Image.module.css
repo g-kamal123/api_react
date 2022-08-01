@@ -1,0 +1,14 @@
+.parent{
+    display: flex;
+}
+.Img{
+    height: 45rem;
+    width: 40rem;
+}
+.Img img{
+    max-width: 100%;
+    max-height: 100%;
+}
+.parent p{
+    font-size: 1.4rem;
+}

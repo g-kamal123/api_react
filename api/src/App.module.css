@@ -1,0 +1,7 @@
+.app{
+    border-collapse: collapse;
+}
+.app td,th{
+    border: 1px solid black;
+    text-align: center;
+}
